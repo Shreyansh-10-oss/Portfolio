@@ -8,7 +8,7 @@ import { Java } from "@/components/ui/svgs/java";
 export const DATA = {
   name: "Shreyansh Agarwal",
   initials: "SA",
-  url: "http://localhost:3000",
+  url: "https://shreyansh-portfolio33.vercel.app",
   location: "Jaipur, India",
   description:
     "AI/ML & Software Engineer building intelligent applications, RAG systems, and scalable backend services.",
@@ -31,7 +31,7 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/resume.pdf", icon: NotebookIcon, label: "Resume" },
+    { href: "/Resume.pdf", icon: NotebookIcon, label: "Resume" },
   ],
   contact: {
     email: "shreyanshagarwal004@gmail.com",

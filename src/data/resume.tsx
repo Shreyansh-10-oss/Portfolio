@@ -122,6 +122,7 @@ export const DATA = {
         {
           type: "Demo",
           href: "https://drive.google.com/file/d/1GqjpElUV2XtI8AzlmwmbZtb0itXItNFX/view?usp=sharing",
+          icon: <Icons.globe className="size-3" />,
         },
       ],
 

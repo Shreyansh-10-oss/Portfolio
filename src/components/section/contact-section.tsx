@@ -50,7 +50,14 @@ export default function ContactSection() {
           >
             LinkedIn
           </Link>
-
+          <Link
+            href={DATA.contact.social.LeetCode.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="rounded-md border px-4 py-2 text-sm font-medium hover:bg-accent transition-colors"
+          >
+            LeetCode
+          </Link>
           <Link
             href={DATA.contact.social.email.url}
             className="rounded-md border px-4 py-2 text-sm font-medium hover:bg-accent transition-colors"

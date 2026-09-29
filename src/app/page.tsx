@@ -100,6 +100,9 @@ export default function Page() {
                       <div className="font-sans text-sm text-muted-foreground">
                         {education.degree}
                       </div>
+                      <div className="font-sans text-sm text-muted-foreground">
+                        {education.description}
+                      </div>
                     </div>
                   </div>
                   <div className="flex items-center gap-1 text-xs tabular-nums text-muted-foreground text-right flex-none">

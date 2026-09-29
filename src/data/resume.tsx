@@ -51,6 +51,12 @@ export const DATA = {
 
         navbar: true,
       },
+      LeetCode: {
+        name: "LeetCode",
+        url: "https://leetcode.com/u/shreyansh10/",
+        icon: Icons.leetcode,
+        navbar: true,
+      },
       email: {
         name: "Email",
         url: "mailto:shreyanshagarwal004@gmail.com",
@@ -83,6 +89,7 @@ export const DATA = {
       logoUrl: "/LnmiitLogo.png",
       start: "2023",
       end: "2027",
+      description: "CGPA: 7.17",
     },
   ],
   projects: [
@@ -111,6 +118,10 @@ export const DATA = {
           type: "Source",
           href: "https://github.com/Shreyansh-10-oss/truth-engine-rag",
           icon: <Icons.github className="size-3" />,
+        },
+        {
+          type: "Demo",
+          href: "https://drive.google.com/file/d/1GqjpElUV2XtI8AzlmwmbZtb0itXItNFX/view?usp=sharing",
         },
       ],
 

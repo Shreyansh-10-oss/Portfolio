@@ -75,8 +75,8 @@ export const DATA = {
       location: "Remote",
       title: "AI Engineer Intern",
       logoUrl: "/images.png",
-      start: "June 2026",
-      end: "Aug 2026",
+      start: "May 2026",
+      end: "Sept 2026",
       description:
         " Developed AI-powered applications using LLMs, LangChain and Retrieval-Augmented Generation (RAG), improving response relevance for context-aware user queries built document intelligence pipelines using vector embeddings and semantic search across vector databases",
     },
